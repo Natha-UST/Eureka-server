@@ -4,9 +4,9 @@ pipeline {
 
   tools{
 
-    maven 'my-maven'
+    maven 'maven'
 
-    jdk 'my-jdk'
+    jdk 'jdk-17'
 
   }
 
